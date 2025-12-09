@@ -37,4 +37,9 @@ Wow this took an absolutely long time with all the connecting and placement. The
 
 Ok first of all i had so many issues with this part. The tutorial was made on an older version of KiCad so it took a bit figuring out how to export the files. I than successfully exported the files but some parts were missing so i had to put them manually into the spreadsheet. But in the end after some YT tutorials i got it. Now i order it upload the receipt and wait for approval.
 
+# 
+
+
 Honestly I have no idea what i can do with this DevBoard and I did it because it sounded cool and wanted to get KiCad better to know and what you do with all different functions. I hope that all the time I spent building it is worth it in the end. I have to do some researchtolearn what i can use the devboard for :)
+
+
