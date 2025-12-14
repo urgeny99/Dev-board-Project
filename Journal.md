@@ -1,5 +1,6 @@
 # This is how i created my DevBoard (full about 22h) :
-<img width="981" height="579" alt="image" src="https://github.com/user-attachments/assets/6df4c09c-73d6-4069-b396-5bd5581195f6" />
+<img width="602" height="562" alt="Screenshot 2025-12-14 132201" src="https://github.com/user-attachments/assets/83315729-44c9-4988-988c-f313c802b018" />
+
 
 
 ## Starting my project and doing the first few steps
@@ -36,5 +37,7 @@ Wow this took an absolutely long time with all the connecting and placement. The
 ## Exporting the design and adding it to JLCPCB
 
 Ok first of all i had so many issues with this part. The tutorial was made on an older version of KiCad so it took a bit figuring out how to export the files. I than successfully exported the files but some parts were missing so i had to put them manually into the spreadsheet. But in the end after some YT tutorials i got it. Now i order it upload the receipt and wait for approval.
+
+(edit after first review i added a LED to the sw push button)
 
 
