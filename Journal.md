@@ -1,5 +1,5 @@
-# This is how i created my DevBoard (full about 22h) :
-<img width="602" height="562" alt="Screenshot 2025-12-14 132201" src="https://github.com/user-attachments/assets/83315729-44c9-4988-988c-f313c802b018" />
+# This is how i created my DevBoard (full about 30h) :
+<img width="641" height="835" alt="Screenshot 2025-12-18 172210" src="https://github.com/user-attachments/assets/2e310ed5-ee40-4d16-8ac9-2ba3272ed975" />
 
 
 
@@ -34,10 +34,7 @@ Wow this took an absolutely long time with all the connecting and placement. The
 
 <img width="1657" height="979" alt="image" src="https://github.com/user-attachments/assets/3ae2f575-9245-4fe3-9707-ff2f40e9b591" />
 
-## Exporting the design and adding it to JLCPCB
-
-Ok first of all i had so many issues with this part. The tutorial was made on an older version of KiCad so it took a bit figuring out how to export the files. I than successfully exported the files but some parts were missing so i had to put them manually into the spreadsheet. But in the end after some YT tutorials i got it. Now i order it upload the receipt and wait for approval.
-
-(edit after first review i added a LED to the sw push button)
+## After the first reviews thez suggested adding something unique so i added a temperature sensor that shows the temp with an rgb led.
+<img width="438" height="864" alt="Screenshot 2025-12-18 172153" src="https://github.com/user-attachments/assets/c8aac014-8453-4def-9034-e45462461123" />
 
 
