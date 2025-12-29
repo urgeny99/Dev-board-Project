@@ -34,7 +34,7 @@ Wow this took an absolutely long time with all the connecting and placement. The
 
 <img width="1657" height="979" alt="image" src="https://github.com/user-attachments/assets/3ae2f575-9245-4fe3-9707-ff2f40e9b591" />
 
-## After the first reviews thez suggested adding something unique so i added a temperature sensor that shows the temp with an rgb led. Main.Py is for the led
+## After the first reviews they suggested adding something unique so i added a temperature sensor that shows the temp with an rgb led. Main.Py is for the led
 <img width="438" height="864" alt="Screenshot 2025-12-18 172153" src="https://github.com/user-attachments/assets/c8aac014-8453-4def-9034-e45462461123" />
 
 
