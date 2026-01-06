@@ -1,39 +1,22 @@
-﻿Designator,Footprint,Quantity,Value,JLCPCB Part #,Total Cost,
-"C1, C10",0402,2,1uF,C52923,€ 0.05,
-"C11, C12, C17, C2, C3, C4, C5, C6, C7, C8, C9, C20 ,C21, C19, C18",0402,11,0.1uF,C1525,€ 0.04,
-"C13, C14",0603,2,10uF,C19702,€ 0.10,
-"C15, C16",0402,2,33pF,C1562,€ 0.02,
-D1,0402,1,LED,C965793,€ 0.12,
-D2,LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,1,SK6812MINI,C5149201,€ 0.36,
-J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_14P,C165948,€ 0.29,
-"J2, J3",PinHeader_1x20_P2.54mm_Vertical,2,Conn_01x20,C50981,,
-J4,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,C24980,,
-"R1, R2",0402,2,5.1K,C25905,€ 0.01,
-"R3, R4",0402,2,27,C25100,€ 0.01,
-"R5, R6",0402,2,1K,C11702,€ 0.01,
-R7,0402,1,10K,C25744,€ 0.01,
-"R10, R8, R9",0402,3,4.7k,C25900,€ 0.01,
-R11,0402,1,220Ω,C25091,€ 0.01,
-SW1,SW_Push_SPST_NO_Alps_SKRK,1,SW_Push,C720477,€ 0.22,
-U1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,RP2040,C2040,€ 1.58,
-U2,SOT-23,1,MCP1700x-330xxTT,C39051,€ 1.48,
-U3,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,1,W25Q16JVUXIQ TR,C2843335,€ 0.99,
-U4,SOT-563,1,TMP112xxDRL,C15999,€ 0.71,
-Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,12 MHz,C9002,€ 0.34,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+﻿Index,LCSC#,MPN,Manufacturer,Package,Description,RoHS,Quantity,Unit Price($),Extended Price($),Product Link
+1,C52923,CL05A105KA5NQNC,Samsung Electro-Mechanics,0402,1uF ±10% 25V Ceramic Capacitor X5R 0402,yes,100,0.003,0.3,https://www.lcsc.com/product-detail/C52923.html
+2,C1525,CL05B104KO5NNNC,Samsung Electro-Mechanics,0402,100nF ±10% 16V Ceramic Capacitor X7R 0402,yes,200,0.0012,0.24,https://www.lcsc.com/product-detail/C1525.html
+3,C19702,CL10A106KP8NNNC,Samsung Electro-Mechanics,0603,10uF ±10% 10V Ceramic Capacitor X5R 0603,yes,100,0.0058,0.58,https://www.lcsc.com/product-detail/C19702.html
+4,C1562,0402CG330J500NT,FH,0402,33pF ±5% 50V Ceramic Capacitor C0G 0402,yes,100,0.0011,0.11,https://www.lcsc.com/product-detail/C1562.html
+5,C965793,XL-1005UGC,XINGLIGHT,0402,Emerald Green 531nm LED Indication - Discrete 3V 0402,yes,100,0.0076,0.76,https://www.lcsc.com/product-detail/C965793.html
+6,C5149201,SK6812MINI-E,OPSCO Optoelectronics,SMD,"SMD LED Addressable, Specialty RoHS",yes,10,0.0862,0.86,https://www.lcsc.com/product-detail/C5149201.html
+7,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,yes,10,0.1762,1.76,https://www.lcsc.com/product-detail/C165948.html
+8,C50981,2.54-1*20P,BOOMELE(Boom Precision Elec),"Through Hole,P=2.54mm",Pin Header 20 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,yes,20,0.1157,2.31,https://www.lcsc.com/product-detail/C50981.html
+9,C24980,1.27-1*3P,BOOMELE(Boom Precision Elec),"Through Hole,P=1.27mm",Pin Header 3 Position 1.27mm Pitch Single Row Through Hole -55℃~+105℃,yes,20,0.029,0.58,https://www.lcsc.com/product-detail/C24980.html
+10,C25100,0402WGF270JTCE,UNI-ROYAL,0402,27Ω ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C25100.html
+11,C11702,0402WGF1001TCE,UNI-ROYAL,0402,1kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C11702.html
+12,C25744,0402WGF1002TCE,UNI-ROYAL,0402,10kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C25744.html
+13,C25900,0402WGF4701TCE,UNI-ROYAL,0402,4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C25900.html
+14,C25091,0402WGF2200TCE,UNI-ROYAL,0402,220Ω ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C25091.html
+15,C720477,TS-1088-AR02016,XUNPU,"SMD,4x3mm",Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount,yes,20,0.0445,0.89,https://www.lcsc.com/product-detail/C720477.html
+16,C2040,RP2040,Raspberry Pi,LQFN-56(7x7),133MHz 30 LQFN-56(7x7) Microcontrollers RoHS,yes,10,0.8644,8.64,https://www.lcsc.com/product-detail/C2040.html
+17,C39051,MCP1700T-3302E/TT,MICROCHIP,SOT-23,"Positive Fixed 3.3V SOT-23 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,10,0.3607,3.61,https://www.lcsc.com/product-detail/C39051.html
+18,C2843335,W25Q16JVUXIQ,Winbond,USON-8-EP(2x3),2.7V~3.6V 16Mbit 133MHz SPI USON-8-EP(2x3) Memory (ICs) RoHS,yes,12,0.5048,6.06,https://www.lcsc.com/product-detail/C2843335.html
+19,C9002,X322512MSB4SI,YXC Crystal Oscillators,SMD3225-4P,Crystal 12MHz ±10ppm 20pF SMD3225-4P,yes,10,0.0685,0.69,https://www.lcsc.com/product-detail/C9002.html
+20,C28927,TMP112AIDRLR,TI,SOT-563,Temperature Sensor -40℃~+125℃ SOT-563,yes,10,0.2273,2.27,https://www.lcsc.com/product-detail/C28927.html
+21,C2906874,FRC0402F5101TS,FOJAN,0402,5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0005,0.05,https://www.lcsc.com/product-detail/C2906874.html
