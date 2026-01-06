@@ -37,4 +37,5 @@ Wow this took an absolutely long time with all the connecting and placement. The
 ## After the first reviews they suggested adding something unique so i added a temperature sensor that shows the temp with an rgb led. Main.Py is for the led
 <img width="438" height="864" alt="Screenshot 2025-12-18 172153" src="https://github.com/user-attachments/assets/c8aac014-8453-4def-9034-e45462461123" />
 
+## I decided to solder manually so i order the boards from JLCPCB and the parts from LCSC. I ord3er 10 so i can make as many mistakes as i need since i am completely new to this hobby
 
